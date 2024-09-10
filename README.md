@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajaywebsite
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Php
+- 🌱 I’m currently Web Development Internship
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
